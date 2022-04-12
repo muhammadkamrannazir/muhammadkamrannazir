@@ -18,7 +18,7 @@
 <p align="center"> <b> Let's Connect<b/> 🔥</p>
 <a href="https://github.com/abrarali-official/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/abraraliofficial/">
+<a href="https://www.linkedin.com/in/kamrannazirofficial/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
 <a href="https://x.facebook.com/abraraliiofficial">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
