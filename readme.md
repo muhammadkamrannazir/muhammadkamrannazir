@@ -4,11 +4,11 @@
 <img align="right" alt="Developer Muhammad Kamran" src="https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/main/code.gif" width="500" height="320" />
 
 - 😄 Pronouns me as `/kamran/`
-- 🎓 University of Education, Faisalabad
+- 🎓 Graduated from University of Education, Faisalabad
 - 💻 Flutter Developer
 - 🌱 Learning **Something New**
 - ☕️ Front End Expert
--  🇵🇰 Faisalabad, Punjab, Pakistan
+-  🇵🇰 Burewala, Punjab, Pakistan
 - 📱 (+92) 30 9083 699 0
 
 <br><br>
