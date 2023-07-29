@@ -9,7 +9,7 @@
 - 🌱 Learning **Something New**
 - ☕️ Front End Expert
 - 🇵🇰  Burewala, Punjab, Pakistan
-- 📱 (+92) 30 9083 699 0
+- 📱 (+92) 309 0836 990
 
 <br><br>
 <br><br>
