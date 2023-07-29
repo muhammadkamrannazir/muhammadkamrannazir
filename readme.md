@@ -8,7 +8,7 @@
 - 💻 Flutter Developer
 - 🌱 Learning **Something New**
 - ☕️ Front End Expert
--  🇵🇰 Burewala, Punjab, Pakistan
+-  🇵🇰  Burewala, Punjab, Pakistan
 - 📱 (+92) 30 9083 699 0
 
 <br><br>
