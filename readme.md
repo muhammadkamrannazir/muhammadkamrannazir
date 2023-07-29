@@ -3,12 +3,12 @@
 ### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px">
 <img align="right" alt="Developer Muhammad Kamran" src="https://raw.githubusercontent.com/UsamaSarwar/UsamaSarwar/main/code.gif" width="500" height="320" />
 
-- 😄 Pronouns me as `/kamran/`
+- 😄 Pronouns me as `kamran`
 - 🎓 Graduated from University of Education, Faisalabad
 - 💻 Flutter Developer
 - 🌱 Learning **Something New**
 - ☕️ Front End Expert
--  🇵🇰  Burewala, Punjab, Pakistan
+- 🇵🇰  Burewala, Punjab, Pakistan
 - 📱 (+92) 30 9083 699 0
 
 <br><br>
