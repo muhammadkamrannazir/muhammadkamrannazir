@@ -5,9 +5,9 @@
 
 - 😄 Pronouns me as `kamran`
 - 🎓 Graduated from University of Education, Faisalabad
-- 💻 Flutter Developer
+- 💻 Mobile Application Developer
 - 🌱 Learning **Something New**
-- ☕️ Front End Expert
+- ☕️ Expert in FLutter Framework
 - 🇵🇰  Burewala, Punjab, Pakistan
 - 📱 (+92) 319 6990 740
 
